@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="/Users/tangtang/Desktop/DragSortListView/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/libs/internal_impl-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="9e070ad32b2700b0343e8e0cccc437733d91ba3a">
+        <dex dex="/Users/tangtang/Desktop/DragSortListView/app/build/intermediates/pre-dexed/debug/internal_impl-22.1.1-03847c57d3b766a8f682240e70aad45c0b828c34.jar" />
+    </item>
+    <item
+        jar="/Users/tangtang/Desktop/DragSortListView/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="a3ff3c506644c820eb2bdf06e8339f72be578551">
+        <dex dex="/Users/tangtang/Desktop/DragSortListView/app/build/intermediates/pre-dexed/debug/classes-dc0e69acb4b4d54832317929c7ab6b0466ad0058.jar" />
+    </item>
+    <item
+        jar="/Users/tangtang/Desktop/DragSortListView/app/build/intermediates/exploded-aar/com.android.support/support-v4/22.1.1/classes.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="c95ba8152923e4872e86a82cfcba9a51c0214328">
+        <dex dex="/Users/tangtang/Desktop/DragSortListView/app/build/intermediates/pre-dexed/debug/classes-5f13a9e96bc3b9cf2913136694b7e3eef90d24a3.jar" />
+    </item>
+    <item
+        jar="/Users/tangtang/Library/Android/sdk/extras/android/m2repository/com/android/support/support-annotations/22.1.1/support-annotations-22.1.1.jar"
+        jumboMode="false"
+        revision="21.1.2"
+        sha1="01d051a6bfb1218b1db2d3a5af0480ac2c25c42a">
+        <dex dex="/Users/tangtang/Desktop/DragSortListView/app/build/intermediates/pre-dexed/debug/support-annotations-22.1.1-50cef404d25a41ecdffb166b6e2b23836a337787.jar" />
+    </item>
+
+</items>
